@@ -1,8 +1,8 @@
 # About the Medicine Purchase System
-The “Medicine Purchase System”, a C++ based project, has distinct “portals” for the customer and the owner. Various distinct functionalities have been made available through each of these portals. There is a total of three databases available for the functionalities of the program. These include the following:-
-  * Database 1: “AllOrders.txt” has the details of all the fulfilled as well as the unfulfilled orders
-  * Database 2: “PendingOrders.txt” has the details of the pending orders only
-  * Database 3: “AvailableMedicines.txt” holds the details of all the (currently) available medicines  
+The "Medicine Purchase System" is a command-line based C++ project. It has distinct 'portals' for the customer and the owner. Various distinct functionalities have been made available through each of these portals. There is a total of three databases available for the functionalities of the program. These include the following:-
+  * Database 1: "AllOrders.txt" has the details of all the fulfilled as well as the unfulfilled orders
+  * Database 2: "PendingOrders.txt" has the details of the pending orders only
+  * Database 3: "AvailableMedicines.txt" holds the details of all the (currently) available medicines  
 
 Regular textual file handling has been used in order to fulfill the requirements of this project.
 
